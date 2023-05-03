@@ -4,15 +4,15 @@ This is a java project that prints out the check at "The Counter" restaurant usi
 ## The Counter Menu
 ![Sequence Diagram](https://github.com/sparmar15/counter-burger/blob/main/images/The_Counter_Menu.png)
 
-## Final Check
-![Sequence Diagram](https://github.com/sparmar15/counter-burger/blob/main/images/The_Counter_Check.png)
-
 ## Steps to run the code
 - Download the repository as a zip.
 - Unzip the folder.
 - Open a new terminal in this folder.
-- Run this comand: javac Client.java
-- Run this command: java Client
+- Run the following commands on the terminal:
+```
+javac Client.java
+java Client
+```
 
 ## Sequence Diagram
 ![Sequence Diagram](https://github.com/sparmar15/counter-burger/blob/main/images/Sequence_Diagram.png)
