@@ -14,6 +14,9 @@ javac Client.java
 java Client
 ```
 
+## Output
+![Sequence Diagram](https://github.com/sparmar15/counter-burger/blob/main/images/Program_Output.png)
+
 ## Sequence Diagram
 ![Sequence Diagram](https://github.com/sparmar15/counter-burger/blob/main/images/Sequence_Diagram.png)
 
