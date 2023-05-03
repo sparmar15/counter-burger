@@ -7,9 +7,9 @@ This is a java project that prints out the check at "The Counter" restaurant usi
 ## Steps to run the code
 - Download the repository as a zip.
 - Unzip the folder.
-- Open a new terminal in this folder.
-- Run the following commands on the terminal:
+- Open a new terminal in this folder named counter-burger and run the following commands:
 ```
+cd code
 javac Client.java
 java Client
 ```
